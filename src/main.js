@@ -1,3 +1,5 @@
+const SuperConsole = require('./superConsole');
+
 module.exports = {
-  ConsoleHelper,
+  SuperConsole,
 };
